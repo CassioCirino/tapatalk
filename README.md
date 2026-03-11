@@ -20,6 +20,7 @@ Este pacote contem:
 Opcao MSI:
 1. Baixe `TAPATALK-Setup.msi`.
 2. Execute o pacote MSI e conclua a instalacao.
+3. O TAPATALK sera iniciado automaticamente ao final da instalacao.
 
 ## Como usar
 1. Abra o Microsoft Teams.
@@ -34,6 +35,10 @@ Opcao MSI:
      - `Imagem`
    - `Desativar protecao por 5 min`: pausa temporaria.
    - `Sobre`: mostra autor e links.
+
+Padrao da instalacao MSI:
+- `Iniciar com Windows` vem habilitado por padrao.
+- O app abre automaticamente ao terminar a instalacao.
 
 ## Recomendacao de seguranca
 - Para reunioes com dados sensiveis, prefira `Modo -> Cobertura solida`.
@@ -60,3 +65,9 @@ Opcao MSI:
 - Cassio Cirino
 - LinkedIn: https://www.linkedin.com/in/cassiocirino/
 - GitHub: https://github.com/CassioCirino
+
+## Agradecimento
+Obrigado por instalar o TAPATALK.
+
+Se puder, apoie com uma doacao na vaquinha da equipe Joaoedudu, que vai disputar o Mundial de Robotica no Canada:
+https://joaoedudu.vercel.app
