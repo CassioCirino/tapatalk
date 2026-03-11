@@ -2,9 +2,11 @@
 
 Este pacote contem:
 - `TAPATALK-Setup.exe` (instalador)
+- `TAPATALK-Setup.msi` (instalador MSI)
 
 ## Requisitos
 - Windows 10 ou Windows 11 (64-bit)
+- Nao precisa instalar .NET runtime separadamente (TAPATALK e distribuido como self-contained)
 
 ## Como instalar
 1. Baixe `TAPATALK-Setup.exe`.
@@ -14,6 +16,10 @@ Este pacote contem:
    - criar atalho na area de trabalho
    - iniciar o TAPATALK com o Windows
 5. Finalize e abra o TAPATALK.
+
+Opcao MSI:
+1. Baixe `TAPATALK-Setup.msi`.
+2. Execute o pacote MSI e conclua a instalacao.
 
 ## Como usar
 1. Abra o Microsoft Teams.
@@ -54,4 +60,3 @@ Este pacote contem:
 - Cassio Cirino
 - LinkedIn: https://www.linkedin.com/in/cassiocirino/
 - GitHub: https://github.com/CassioCirino
-
